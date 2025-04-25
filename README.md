@@ -1,5 +1,6 @@
 # SummarizeAI - Intelligent Text Summarization Platform
-
+ demo vide:
+ https://youtu.be/E0ppQiEUaSM
 
 
 ![image](https://github.com/user-attachments/assets/5d6a8fac-693b-4dd7-a5d6-aba180f66ae1)

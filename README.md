@@ -257,6 +257,3 @@ src/
 - TypeScript 5.5+
 - Modern browser with Web Speech API support
 
-## 📄 License
-
-MIT License - See LICENSE file for details

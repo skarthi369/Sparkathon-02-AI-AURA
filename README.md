@@ -1,6 +1,7 @@
-# SummarizeAI - Intelligent Text Summarization Platform
+# SummarizeAI - Intelligent Text Summarization Platform(rag ,filescraping,
  demo vide:
  https://youtu.be/E0ppQiEUaSM
+![image](https://github.com/user-attachments/assets/e2996ca7-d6f4-4271-9c24-cd6a695de3a1)
 
 
 ![image](https://github.com/user-attachments/assets/5d6a8fac-693b-4dd7-a5d6-aba180f66ae1)

@@ -1,6 +1,18 @@
 # SummarizeAI - Intelligent Text Summarization Platform
 
-![SummarizeAI Banner](https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+
+![image](https://github.com/user-attachments/assets/5d6a8fac-693b-4dd7-a5d6-aba180f66ae1)
+
+
+![image](https://github.com/user-attachments/assets/50ee5cdf-9a40-40e3-81f1-214706b6bd72)
+![image](https://github.com/user-attachments/assets/36a72625-c636-41cc-ae1a-da50ccf939a4)
+![image](https://github.com/user-attachments/assets/80d39690-5895-40ab-8f8a-aed130110478)
+
+![image](https://github.com/user-attachments/assets/716b44ca-6af3-4fe0-9f6a-48b84e0caf4d)
+
+
+
 
 SummarizeAI is a powerful text summarization platform that leverages Google's Gemini AI to transform long articles and essays into concise, customizable summaries. Built with React, TypeScript, and Tailwind CSS, it offers a modern, responsive interface with advanced features for content processing.
 
